@@ -3,6 +3,7 @@ The pdf file contains commands like sl,rev,factor along with a health file which
 
 health.sh
 Checking for the health of the system.
+vmstat2.data contains the monitoresd data.
 vmstat-shows the information about system 
 grep "swap" shows that if a process consumes memory it is monitored.
 grep "r" shows that the system is slow and is waiting for some process is executing
